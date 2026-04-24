@@ -4,13 +4,14 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "tsx server.ts",
-    "worker": "tsx src/backend/queue/worker.ts",
-    "build": "vite build",
-    "preview": "vite preview",
-    "clean": "powershell -NoProfile -Command \"if (Test-Path dist) { Remove-Item -Recurse -Force dist }\"",
-    "lint": "tsc --noEmit"
-  },
+  "dev": "tsx server.ts",
+  "worker": "tsx src/backend/queue/worker.ts",
+  "build": "vite build",
+  "preview": "vite preview",
+  "start": "vite preview --host 0.0.0.0 --port $PORT",
+  "clean": "powershell -NoProfile -Command \"if (Test-Path dist) { Remove-Item -Recurse -Force dist }\"",
+  "lint": "tsc --noEmit"
+},
   "dependencies": {
     "@google/genai": "^1.29.0",
     "@tailwindcss/vite": "^4.1.14",

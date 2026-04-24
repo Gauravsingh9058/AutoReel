@@ -1,0 +1,12 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+storage/generated/
+storage/uploads/
+storage/media-cache/
+storage/data/local-db.json

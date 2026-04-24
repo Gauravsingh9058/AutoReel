@@ -1,0 +1,51 @@
+
+> react-example@0.0.0 dev
+> tsx server.ts
+
+◇ injected env (24) from .env.local // tip: ⌘ enable debugging { debug: true }
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+◇ injected env (0) from .env.local // tip: ⌘ enable debugging { debug: true }
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+VidSnapAI SaaS running on http://127.0.0.1:4173
+[2m9:41:01 am[22m [36m[1m[vite][22m[39m [32m.env.local changed, restarting server...[39m
+[2m9:41:01 am[22m [36m[1m[vite][22m[39m server restarted.
+[2m11:58:15 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/backend/services/instagramService.ts[22m
+[2m11:58:25 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/backend/routes/instagramRoutes.ts[22m
+[2m11:58:29 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/backend/routes/instagramRoutes.ts[22m
+[2m11:58:36 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/App.tsx[22m
+[2m11:58:45 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/index.css[22m
+[2m11:59:01 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/index.css[22m
+[2m11:59:05 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/backend/config/env.ts[22m
+[2m11:59:19 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdocs/SAAS_SETUP.md[22m
+[2m11:59:46 am[22m [36m[1m[vite][22m[39m [32m.env.local changed, restarting server...[39m
+[2m11:59:46 am[22m [36m[1m[vite][22m[39m server restarted.
+[2m12:04:29 pm[22m [36m[1m[vite][22m[39m [32m.env.local changed, restarting server...[39m
+[2m12:04:30 pm[22m [36m[1m[vite][22m[39m server restarted.
+[2m12:12:33 pm[22m [36m[1m[vite][22m[39m [32m.env.local changed, restarting server...[39m
+[2m12:12:33 pm[22m [36m[1m[vite][22m[39m server restarted.
+[2m12:14:00 pm[22m [36m[1m[vite][22m[39m [32m.env.local changed, restarting server...[39m
+[2m12:14:01 pm[22m [36m[1m[vite][22m[39m [32m.env.local changed, restarting server...[39m
+[2m12:14:01 pm[22m [36m[1m[vite][22m[39m server restarted.
+[2m12:14:46 pm[22m [36m[1m[vite][22m[39m [32m.env.local changed, restarting server...[39m
+[2m12:14:46 pm[22m [36m[1m[vite][22m[39m server restarted.
+[2m12:16:05 pm[22m [36m[1m[vite][22m[39m [32m.env.local changed, restarting server...[39m
+[2m12:16:05 pm[22m [36m[1m[vite][22m[39m server restarted.
+[2m12:17:11 pm[22m [36m[1m[vite][22m[39m [32m.env.local changed, restarting server...[39m
+[2m12:17:11 pm[22m [36m[1m[vite][22m[39m server restarted.
+[2m12:17:55 pm[22m [36m[1m[vite][22m[39m [32m.env.local changed, restarting server...[39m
+[2m12:17:55 pm[22m [36m[1m[vite][22m[39m server restarted.
+[2m12:28:18 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/backend/config/env.ts[22m
+[2m12:28:18 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/backend/services/usageService.ts[22m
+[2m12:28:18 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/backend/repositories/appRepository.ts[22m
+[2m12:28:19 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/backend/routes/projectRoutes.ts[22m
+[2m12:28:19 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/backend/routes/instagramRoutes.ts[22m
+[2m12:28:19 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/index.css[22m
+[2m12:28:19 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.codex-tmp/dev.out[22m
+[2m12:28:19 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.codex-tmp/dev.out[22m
+[2m12:28:19 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.codex-tmp/dev.out[22m
+[2m12:28:50 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/index.css[22m
+[2m12:29:08 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/index.css[22m
+[2m12:29:20 pm[22m [36m[1m[vite][22m[39m [32m.env.local changed, restarting server...[39m
+[2m12:29:20 pm[22m [36m[1m[vite][22m[39m server restarted.
+[2m12:30:34 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdist/index.html[22m
+[2m12:30:57 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.codex-tmp/dev.out[22m
